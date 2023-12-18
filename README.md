@@ -1,4 +1,4 @@
-# TeleFormer![teleformer logo white on black](https://github.com/KaiKai7/TeleFormer/assets/87836320/2e61be53-4832-477c-aac2-e84b322201f4)
+# TeleFormer
 
 ## Create quick and easy http web request url's for use with free Telegram Messenger https://telegram.org.
 
