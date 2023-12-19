@@ -6,6 +6,8 @@ TeleFormer Privacy Policy can be found here https://github.com/KaiKai7/TeleForme
 
 TeleFormer End User License Agreement EULA can be found here https://github.com/KaiKai7/TeleFormer/blob/main/TeleFormer%20EULA.md
 
+TeleFormer User Guide can be found here https://github.com/KaiKai7/TeleFormer/blob/main/TeleFormer%20User%20Guide.md
+
 Google Play Developer page https://play.google.com/store/apps/dev?id=9085904003563303134&pli=1
 
 Help me continue to do cool stuff https://www.buymeacoffee.com/calibluesea
