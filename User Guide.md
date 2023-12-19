@@ -1,3 +1,5 @@
+![teleformer logo](https://github.com/KaiKai7/TeleFormer/assets/87836320/ca6e59c7-1c9b-4f4d-8351-01124f45366d)
+
 # TeleFormer User Guide
 
 ## About TeleFormer
