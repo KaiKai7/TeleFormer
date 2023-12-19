@@ -9,3 +9,16 @@ Telegram is an open source and free messenger. You can use Telegram as a secure 
 There are 3 main things needed to create a text notification for Telegram.
 
 ### #1 Bot Token
+The bot token is something that should be kept private, with it others could control your bot.
+
+If you do not have Telegram installed yet, then you should install it before moving forward. Although it is not required, it will make the bot token and chat id process more automated.
+
+There is a link to get the bot token and if you do not yet have one, then clicking the link will open Telegram and take you directly to the "BotFather". This is a bot that will help you create your bot.
+
+* choose the option to create a new bot and follow the instructions.
+* once the bot is created, you will be shown the bot token.
+* copy this token and paste it in the field called "Bot Token".
+
+### #2 Chat ID
+
+
