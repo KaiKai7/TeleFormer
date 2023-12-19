@@ -7,7 +7,7 @@
 
 **1. Introduction**
 
-This Privacy Policy ("Policy") explains how BlackBoxAutomationApps ("Developer") collects, uses, and discloses information in connection with the TeleFormer application ("App").
+This Privacy Policy explains how BlackBoxAutomationApps collects, uses, and discloses information in connection with the TeleFormer application.
 
 **2. Information We Do Not Collect**
 
