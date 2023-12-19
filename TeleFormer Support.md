@@ -10,4 +10,6 @@ Google Play Developer page https://play.google.com/store/apps/dev?id=90859040035
 
 Help me continue to do cool stuff https://www.buymeacoffee.com/calibluesea
 
+And last but not least, you can get Telegram here https://telegram.org
+
 
