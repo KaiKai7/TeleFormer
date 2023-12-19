@@ -5,7 +5,7 @@
 
 **1. Introduction**
 
-This End User License Agreement ("EULA") is a legal agreement between you ("End User") and [YOUR NAME/COMPANY NAME] ("Developer"). This EULA governs your use of the TeleFormer application ("App"). By downloading, installing, or using the App, you acknowledge that you have read and understood this EULA and agree to be bound by its terms.
+This End User License Agreement ("EULA") is a legal agreement between you ("End User") and BlackBox Automation Apps ("Developer"). This EULA governs your use of the TeleFormer application ("App"). By downloading, installing, or using the App, you acknowledge that you have read and understood this EULA and agree to be bound by its terms.
 
 **2. Grant of License**
 
