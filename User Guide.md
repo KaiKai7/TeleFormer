@@ -32,7 +32,7 @@ The message field is where you type in the message you want to display. This fie
 * Spaces are automatically encoded when the url is finally formatted. This saves you the trouble of knowing the special characters required to make spaces. It also makes composing a message easier.
 * Multi-line messages are supported by Telegram. If the user presses the enter key while in the message field, the special characters for a new line are entered automatically. This needs to ne done so that the url will be valid and properly send. You will notice once the notification is received that the new lines started when the enter key was pressed. This is helpful for creating a notification with data in a more structured and visually appealing way.
 * after typing in the text for the message decide whether you want to send the message as a silent notification or not. This is done by checking the checkbox if you want to send a silent message. Doing this encodes the message with an attribute to tell Telegram to deliver this message with no sound. This may be helpful if you are logging something and audible notfications are not only not wanted but not allowed.
-* after typing in the message and choosing whether to send silent or not, press Format Url.
+* after typing in the message and choosing whether to send silent or not, press Form Request.
 * the url is now displayed and can also be copied by pressing the url for at least one second. Depending upon your version of Android, this may also bring up the share menu.
 * sharing to your browser of choice will immediately send the message as a http request. And when the browser refreshes you should see a message indicating whether successful or not.
 
