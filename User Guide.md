@@ -22,6 +22,9 @@ There is a link to get the bot token and if you do not yet have one, then clicki
 ### #2 Chat ID
 The chat id identifies the chat to which you are sending the message. If you do not yet know what your chat id is, then you can use the link for the MyIdBot to tell you.
 
-Once you have the chat id, paste it in the field called " Chat Id".
+* once you have the chat id, paste it in the field called " Chat Id".
+
+### #3 Message
+The message field is where you type in the message you want to display.
 
 
