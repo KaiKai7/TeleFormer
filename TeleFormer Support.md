@@ -8,5 +8,7 @@ TeleFormer End User License Agreement EULA can be found here https://github.com/
 
 Google Play Developer page https://play.google.com/store/apps/dev?id=9085904003563303134&pli=1
 
+Help me continue to do cool stuff BuyMeACoffee.com
+
 
 
