@@ -8,7 +8,7 @@ TeleFormer End User License Agreement EULA can be found here https://github.com/
 
 Google Play Developer page https://play.google.com/store/apps/dev?id=9085904003563303134&pli=1
 
-Help me continue to do cool stuff BuyMeACoffee.com
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="calibluesea" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 
 
