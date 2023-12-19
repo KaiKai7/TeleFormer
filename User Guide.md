@@ -39,6 +39,8 @@ The message field is where you type in the message you want to display. This fie
 # Using The Request URL
 Now that the url has been created what you can do with it is now up to you. Even saving the link as a shortcut can work wonders. By doing that, you can call an app or Google to open the link or go to the name you gave it. Once the link is opened it will automatically send.
 
+Use the link for version tracking in github or automation apps like Tasker and Macrodroid.
+
 Sometimes uses such as these are whats needed to make your project work and TeleFormer makes creating the links needed easily.
 
 
