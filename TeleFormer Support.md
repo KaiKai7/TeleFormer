@@ -12,6 +12,9 @@ Google Play Developer page https://play.google.com/store/apps/dev?id=90859040035
 
 Help me continue to do cool stuff https://www.buymeacoffee.com/calibluesea
 
+YouTube TeleFormer Demo
+https://youtube.com/shorts/IyPuW5kr-LE?si=5yqypqL4RG0ogFtB
+
 And last but not least, you can get Telegram here https://telegram.org
 
 
