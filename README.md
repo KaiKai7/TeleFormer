@@ -1,4 +1,5 @@
-![Wall Mark logo](https://github.com/KaiKai7/TeleFormer/assets/87836320/be712129-2b67-46e4-b757-c3b71fbd995b)
+![teleformer logo](https://github.com/KaiKai7/TeleFormer/assets/87836320/3f36af3a-2df4-42f9-9b94-578e01425b25)
+
 
 # TeleFormer
 
