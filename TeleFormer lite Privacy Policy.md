@@ -1,5 +1,5 @@
-# TeleFormer Privacy Policy
-## TeleFormer Privacy Policy
+# TeleFormer lite Privacy Policy
+## TeleFormer lite Privacy Policy
 
 **Effective Date:** January 07, 2024
 
@@ -17,7 +17,7 @@ The TeleFormer lite app does not transmit any information that you enter into th
 
 **4. Clipboard Access**
 
-The TeleFormer app only accesses your clipboard when you choose to copy an encoded URL. We do not access any other information on your clipboard.
+The TeleFormer lite app only accesses your clipboard when you choose to copy an encoded URL. We do not access any other information on your clipboard.
 
 **5. Third-Party Services**
 
